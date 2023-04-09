@@ -10,9 +10,24 @@ N/A
 
 ## Usage
 
-To use this portfolio, you can use the navegation tab on the top to navigate to the section you want to review, and on the project section you can press on the picture of the project you want to explore and the link will take you to see that project.
-
 To use this tool, just press on "Generate password", then choose the length of the password between 8 and 128 character and if you enterd worng number then you will have three more tries to enter the correct password after that every thing will get cancelled and you have to start all over again, then multiple confirmation will appear to choose your own criteria for the password. At the end you will get the password printed on the screen.
+
+## Assets
+The following image demonstrates the web application's appearance and functionality:
+
+![On the home page just press Generate Password button to start](./assets/images/home%20page%20of%20password%20generatore.png)
+
+![The first option will appear to choose the length of the password](./assets/images/first%20option.png)
+
+![The second option will appear to choose whether you want to incluse the upper case letters or not](./assets/images/second%20option.png)
+
+![The third option will appear to choose whether you want to incluse the Lower case letters or not](./assets/images/Third%20option.png)
+
+![The fourth option will appear to choose whether you want to incluse the the numeric characters like (0,1,2,...) or not](./assets/images/fourth%20option.png)
+
+![The fifth option will appear to choose whether you want to incluse the the special characters like (*,&,!,...) or not](./assets/images/fifth%20option.png)
+
+![The last screen will display the generated password based on the criteria you choose](./assets/images/last%20screen.png)
 
 ## Credits
 
